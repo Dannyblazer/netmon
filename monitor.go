@@ -59,6 +59,6 @@ func monitorServer(host string) {
 
 func main() {
 	fmt.Println("Starting network monitor...")
-	go monitorServer("8.8.8.8")
+	go monitorServer("142.250.184.174")
 	select {}
 }
