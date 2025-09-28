@@ -1,0 +1,6 @@
+timestamp,host,latency,status
+2025-09-28T19:35:15+01:00,https://www.google.com,6.10868156s,OK
+2025-09-28T19:35:21+01:00,https://www.google.com,526.902376ms,OK
+2025-09-28T19:35:26+01:00,https://www.google.com,508.782176ms,OK
+2025-09-28T19:35:32+01:00,https://www.google.com,518.013594ms,OK
+2025-09-28T19:35:37+01:00,https://www.google.com,549.556091ms,OK
